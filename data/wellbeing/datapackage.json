@@ -1,5 +1,6 @@
 {
     "name": "measuring_personal_wellbeing", 
+    "title": "Measuring Personal Wellbeing", 
     "license": "OGL-UK-2.0", 
     "UKSA-Designation": "Experimental Official Statistics", 
     "StatisticalPopulation": "People in  UK", 
@@ -10,7 +11,7 @@
     "UnitofMeasure": "Percent", 
     "resources": [
         {
-            "path": "/tmp/d.csv", 
+            "path": "data.csv", 
             "schema": {
                 "fields": [
                     {
